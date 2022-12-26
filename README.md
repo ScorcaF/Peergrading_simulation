@@ -7,3 +7,4 @@
  
  N.B. csv files are written in append mode to recover from the last parameters set in case of failure occurrance , since simulations take several minutes
  
+ The results are summarized in https://github.com/ScorcaF/Peergrading_simulation/blob/67750d368de5bd5dc6e7047b508ee75ca1b469ff/PeerGrader%20simulator%20-%20implementation.pdf
